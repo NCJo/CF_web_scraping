@@ -1,6 +1,6 @@
 ## - A Simple Python 3 Images Scraper -
 
-This code is a work in progress of a simple images scraper that could bypass "I'm Under Attack Mode" (DDoS) of Cloudflare.
+This code is a simple images scraper that could bypass "I'm Under Attack Mode" (DDoS) of Cloudflare.
 
 ### Prerequisites
 
