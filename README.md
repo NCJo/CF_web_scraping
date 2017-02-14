@@ -4,7 +4,7 @@ This code is a work in progress of a simple images scraper that could bypass "I'
 
 ### Prerequisites
 
-This code requires several libraries including: BeautifulSoup, Selenium, and cfscrape.
+This code uses Python 3 to run and requires several libraries including: BeautifulSoup, Selenium, and cfscrape.
 
 ### How to use
 
